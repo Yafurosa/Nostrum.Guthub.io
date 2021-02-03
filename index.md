@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Nostrum
 
-You can use the [editor on GitHub](https://github.com/Yafurosa/Nostrumpod/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+一档谈天说地、主观分享的播客
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
